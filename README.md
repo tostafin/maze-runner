@@ -1,3 +1,15 @@
 # MazeRunner
 
-A game developed in Unreal Engine with an animation made in Blender.
+A game developed in Unreal Engine with animations made in Blender.
+
+## Description
+A person was driving through a forest once. Unfortuntely, ...
+
+The person found themselves trapped in a maze. A magical one, with portals teleporting to different locations. The goal is to find missing keys to open the door which is located somewhere in the maze. But one must be careful: there are obstacles waiting to harm them.
+
+## Maze Map
+The map is hugely inspired by the Expert/Hard Ape Dungeon from Metin2. You can find info about it and the map below itself in [Polish](https://pl-wiki.metin2.gameforge.com/index.php/Sangsun_Dong) or [English](https://en-wiki.metin2.gameforge.com/index.php/Sangsun_Dong).
+<details>
+    <summary>Maze map</summary>
+    <img src="https://pl-wiki.metin2.gameforge.com/images/b/bc/Sangsun_Dong_%28kombinacje%29.png" alt="Sangsun Dong">
+</details>
