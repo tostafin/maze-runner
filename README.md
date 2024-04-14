@@ -13,3 +13,7 @@ The map is hugely inspired by the Expert/Hard Ape Dungeon from Metin2. You can f
     <summary>Maze map</summary>
     <img src="https://pl-wiki.metin2.gameforge.com/images/b/bc/Sangsun_Dong_%28kombinacje%29.png" alt="Sangsun Dong">
 </details>
+
+## Sound
+- Footsteps: Pack: Footsteps-Dirt Pack by nuFF3 -- https://freesound.org/people/nuFF3/packs/27009/ -- License: Attribution 4.0
+- Background music: Underground Ambient by TheoJT -- https://freesound.org/s/510800/ -- License: Attribution 4.0
