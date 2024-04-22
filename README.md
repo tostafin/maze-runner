@@ -22,6 +22,15 @@ The map is hugely inspired by the Expert/Hard Ape Dungeon from Metin2. You can f
 - Footsteps: Pack: Footsteps-Dirt Pack by nuFF3 -- https://freesound.org/people/nuFF3/packs/27009/ -- License: Attribution 4.0
 - Background music: Underground Ambient by TheoJT -- https://freesound.org/s/510800/ -- License: Attribution 4.0
 
+- Windy Forest: 211021_1706_FR_WindyForest.wav by kevp888 -- https://freesound.org/people/kevp888/sounds/593439/ -- License: Attribution 4.0
+- Car: Mercedes Benz 200 by YleArkisto -- https://freesound.org/people/YleArkisto/sounds/325420/ -- License: Attribution 4.0
+- Falling tree: timber tree falling 1 by matt_beer -- https://freesound.org/people/matt_beer/sounds/515313/ -- License: Attribution 4.0
+- Forest running: Running in forest/grass by SoundsForHim -- https://freesound.org/people/SoundsForHim/sounds/395564/ -- License: Attribution 4.0
+- Bat hit: indiana-jones-style-punch by thebondman -- https://freesound.org/people/thebondman/sounds/111739/ -- License: Attribution 4.0
+- Walking: Walk on dirt road by laurent -- https://freesound.org/people/laurent/sounds/16993/ -- License: Attribution 4.0
+- Breath: breath.wav by saha213131 -- https://freesound.org/people/saha213131/sounds/676298/ -- License: Attribution 4.0
+- Bush movement: bushmovement.wav by j1987 -- https://freesound.org/people/j1987/sounds/106114/ -- License: Attribution 4.0
+
 ## Models
 
 - Plants: https://www.turbosquid.com/3d-models/3d-shapespark-low-poly-plants-kit-1826978 -- Licence: TurboSquid 3D Model License Standard
