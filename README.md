@@ -12,6 +12,7 @@ Nathan found himself trapped in a maze. A magical one, with portals teleporting 
 - `WASD` or `Arrow Keys` to move the player.
 - `Space` to jump.
 - `P` to pause the game.
+- `E` to make an action (e.g. open a door).
 
 ## Maze Map
 
