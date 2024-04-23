@@ -2,6 +2,10 @@
 
 A game developed in Unreal Engine with an animation made in Blender.
 
+## Running the game
+
+Run the [executable](Package/Windows/MazeRunner.exe).
+
 ## Description
 
 Nathan was driving through a forest once. Unfortunately, a tree has fallen onto the car. When he got out, he noticed something scary in the forest. He started to run and was trying to escape from that thing. But then, a sudden hit by a baseball bat from a mysterious person who came from nowhere...
@@ -9,6 +13,7 @@ Nathan was driving through a forest once. Unfortunately, a tree has fallen onto 
 Nathan found himself trapped in a maze. A magical one, with portals teleporting to different locations. The goal is to find missing statues to open the door which is located somewhere in the maze. But he must be careful: there are obstacles waiting to harm him.
 
 ## Controls
+
 - `WASD` or `Arrow Keys` to move the player.
 - `Space` to jump.
 - `P` to pause the game.
