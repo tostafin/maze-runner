@@ -1,12 +1,17 @@
 # MazeRunner
 
-A game developed in Unreal Engine with animations made in Blender.
+A game developed in Unreal Engine with an animation made in Blender.
 
 ## Description
 
-A person was driving through a forest once. Unfortuntely, ...
+Nathan was driving through a forest once. Unfortunately, a tree has fallen onto the car. When he got out, he noticed something scary in the forest. He started to run and was trying to escape from that thing. But then, a sudden hit by a baseball bat from a mysterious person who came from nowhere...
 
-The person found themselves trapped in a maze. A magical one, with portals teleporting to different locations. The goal is to find missing keys to open the door which is located somewhere in the maze. But one must be careful: there are obstacles waiting to harm them.
+Nathan found himself trapped in a maze. A magical one, with portals teleporting to different locations. The goal is to find missing statues to open the door which is located somewhere in the maze. But he must be careful: there are obstacles waiting to harm him.
+
+## Controls
+- `WASD` or `Arrow Keys` to move the player.
+- `Space` to jump.
+- `P` to pause the game.
 
 ## Maze Map
 
@@ -39,3 +44,4 @@ The map is hugely inspired by the Expert/Hard Ape Dungeon from Metin2. You can f
 - Rock Cluster: https://www.turbosquid.com/3d-models/rock-cluster-c4d-free/1074560 -- License: TurboSquid 3D Model License Standard
 - Moose: https://pl.3dexport.com/free-3dmodel-moose-or-elk-472778.htm -- License: Royalty Free License
 - People: https://renderpeople.com/free-3d-people/
+- Models from Quixel Bridge
